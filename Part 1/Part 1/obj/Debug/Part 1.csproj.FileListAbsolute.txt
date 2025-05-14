@@ -1,0 +1,14 @@
+C:\Users\RC_Student_lab\source\repos\Part 1\Part 1\bin\Debug\Part 1.exe.config
+C:\Users\RC_Student_lab\source\repos\Part 1\Part 1\bin\Debug\Part 1.exe
+C:\Users\RC_Student_lab\source\repos\Part 1\Part 1\bin\Debug\Part 1.pdb
+C:\Users\RC_Student_lab\source\repos\Part 1\Part 1\obj\Debug\Part 1.csproj.AssemblyReference.cache
+C:\Users\RC_Student_lab\source\repos\Part 1\Part 1\obj\Debug\Part 1.csproj.CoreCompileInputs.cache
+C:\Users\RC_Student_lab\source\repos\Part 1\Part 1\obj\Debug\Part 1.exe
+C:\Users\RC_Student_lab\source\repos\Part 1\Part 1\obj\Debug\Part 1.pdb
+C:\Users\RC_Student_lab\source\repos\programming part1 st10447718\Part 1\Part 1\bin\Debug\Part 1.exe.config
+C:\Users\RC_Student_lab\source\repos\programming part1 st10447718\Part 1\Part 1\bin\Debug\Part 1.exe
+C:\Users\RC_Student_lab\source\repos\programming part1 st10447718\Part 1\Part 1\bin\Debug\Part 1.pdb
+C:\Users\RC_Student_lab\source\repos\programming part1 st10447718\Part 1\Part 1\obj\Debug\Part 1.csproj.AssemblyReference.cache
+C:\Users\RC_Student_lab\source\repos\programming part1 st10447718\Part 1\Part 1\obj\Debug\Part 1.csproj.CoreCompileInputs.cache
+C:\Users\RC_Student_lab\source\repos\programming part1 st10447718\Part 1\Part 1\obj\Debug\Part 1.exe
+C:\Users\RC_Student_lab\source\repos\programming part1 st10447718\Part 1\Part 1\obj\Debug\Part 1.pdb
